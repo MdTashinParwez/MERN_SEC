@@ -40,7 +40,7 @@ cd MERN_SEC/BACKEND
    ```bash
    npm install
    ```
-##3. Setup environment variables
+## 3. Setup environment variables
 
 ```bash
 PORT=4000
@@ -51,7 +51,7 @@ JWT_SECRET=your_jwt_secret_key
 ```bash
 npm run server
 ```
-###📁 Folder Structure
+### 📁 Folder Structure
 ```bash
 BACKEND/
 │
@@ -64,11 +64,11 @@ BACKEND/
 ├── package.json
 └── server.js         # Entry point
 ```
-###📬 API Endpoints
-#Method	Endpoint	Description
-#POST	/api/auth/register	Register a new user
-#POST	/api/auth/login	Login user
-#POST	/api/auth/logout	Logout user
+### 📬 API Endpoints
+# Method	Endpoint	Description
+# POST	/api/auth/register	Register a new user
+# POST	/api/auth/login	Login user
+# POST	/api/auth/logout	Logout user
 
 
    ## 🤝Contributing
