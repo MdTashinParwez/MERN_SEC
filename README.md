@@ -65,10 +65,12 @@ BACKEND/
 └── server.js         # Entry point
 ```
 ### 📬 API Endpoints
-# Method	Endpoint	Description
-# POST	/api/auth/register	Register a new user
-# POST	/api/auth/login	Login user
-# POST	/api/auth/logout	Logout user
+ Method	Endpoint	Description
+ ```bash
+POST	/api/auth/register	Register a new user
+ POST	/api/auth/login	Login user
+ POST	/api/auth/logout	Logout user
+```
 
 
    ## 🤝Contributing
